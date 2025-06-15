@@ -28,3 +28,8 @@ This is a two-page professional Power BI dashboard designed to analyze quality c
 🧑‍💼 Created by **Rocky Ninan**  
 📅 June 2025  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rockyninan)
+
+---
+**Tags**: `Power BI` • `Dashboard` • `Data Analysis` • `Quality Control` • `Inspection Method`  • `Business Intelligence`
+---
+
